@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "575309776468",
+    "firebase_url": "https://ta-khalisya-amita-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ta-khalisya-amita",
+    "storage_bucket": "ta-khalisya-amita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575309776468:android:6bfc75d54303c5fe184fc1",
+        "android_client_info": {
+          "package_name": "com.example.coincharging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575309776468-jqud0m5to2sqh6h6pqpo6663a044l13s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBgvVzoDnBk45448PKKcQOG77hvmH1vNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575309776468-jqud0m5to2sqh6h6pqpo6663a044l13s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
