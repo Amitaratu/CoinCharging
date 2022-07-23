@@ -217,7 +217,6 @@ public class MainActivity extends AppCompatActivity {
             }
         }
 
-
         @Override
         protected void onPostExecute(String result) {
             Toast.makeText(getApplicationContext(), result,
